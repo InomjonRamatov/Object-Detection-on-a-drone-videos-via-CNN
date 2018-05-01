@@ -10,8 +10,12 @@ The aim of this research is to show the implementation of object detection on dr
 
 
 Setup:
-
+    
+    To run the code please install TensorFlow Object detection API to your computer.
+  You can find installation process of TensorFlow from this link.
   * <a href='g3doc/installation.md'>Installation</a><br>
+   After finishing installation copy all files to the models/research/object_detection folder,
+   and run object_detection_from_video.py script. 
  
 
 Extras:
